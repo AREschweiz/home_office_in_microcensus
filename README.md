@@ -25,4 +25,4 @@ DO NOT commit or share in any way the CSV files haushalte.csv and zielpersonen.c
 
 ## Contact
 
-Please don't hesitate to contact me if you have questions or comments about this code: antonin.danalet@are.admin.ch
+Please don't hesitate to contact verkehrsmodellierung@are.admin.ch if you have questions or comments about this code.
